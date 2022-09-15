@@ -2,7 +2,7 @@
 title: "testdrivermarkdown"
 author: "Matt"
 date: "2022-09-15"
-output: html_document
+output: github_document 
 ---
 
 ```{r setup, include=FALSE}
