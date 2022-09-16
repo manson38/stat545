@@ -10,4 +10,10 @@ I am testing out my skills on RStudio for Stat545.
 ```{r}
 plot(pressure)
 ``` 
+Here is a summary of the pressure data:
 
+```{r}
+summary (pressure)
+```
+
+That's the end of our testing analyses. 
